@@ -303,6 +303,10 @@ Plug 'tpope/vim-repeat'
 Plug 'easymotion/vim-easymotion'
 " surround, 快速添加成对符号
 Plug 'tpope/vim-surround'
+" 自动补全成对符号
+Plug 'jiangmiao/auto-pairs'
+" 代码注释
+Plug 'preservim/nerdcommenter'
 " UltiSnips, 代码片段, 依赖 Python
 Plug 'sirver/ultisnips'
 " vim-airline, 底部状态栏增强
